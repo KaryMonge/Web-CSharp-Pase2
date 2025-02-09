@@ -1,0 +1,71 @@
+﻿@model Cliente_UI.Models.Cliente
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Ingresar Cliente</h1>
+
+<h4>Nuevo Cliente</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div class="container">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Cedula" class="control-label"></label>
+                <input asp-for="Cedula" class="form-control" />
+                <span asp-validation-for="Cedula" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Anio_Nacimiento" class="control-label"></label>
+                <input asp-for="Anio_Nacimiento" class="form-control" />
+                <span asp-validation-for="Anio_Nacimiento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefono" class="control-label"></label>
+                <input asp-for="Telefono" class="form-control" />
+                <span asp-validation-for="Telefono" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Profesion" class="control-label"></label>
+                <input asp-for="Profesion" class="form-control" />
+                <span asp-validation-for="Profesion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="email" class="control-label"></label>
+                <input asp-for="email" class="form-control" />
+                <span asp-validation-for="email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lista_recomendado" class="control-label">Donde nos conoció</label>
+                <select asp-for="@Model.Lista_recomendado" class="form-select" asp-items="@(new SelectList(ViewBag.Lista_recomen,"Lista_recomendado","Lista_recomendado"))"></select>
+
+                <span asp-validation-for="Lista_recomendado" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div style="background-color:black">
+    <a asp-action="Index">Regresar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,57 @@
+﻿@model Cliente_UI.Models.Producto
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+<h4>Producto</h4>
+
+<div class="container">
+   
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Producto_Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Producto_Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Producto_Descripcion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Producto_Descripcion)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Ced_juridica)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Ced_juridica)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Anio_ingreso)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Anio_ingreso)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Precio)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Utilidad)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Utilidad)
+        </dd>
+    </dl>
+</div>
+<div>
+    <div style="background-color:navy">
+
+    <a asp-action="Index">Regresar</a>
+    </div>
+</div>

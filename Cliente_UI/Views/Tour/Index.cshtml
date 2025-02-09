@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Cliente_UI.Models.Tour>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Tour_Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tour_Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tour_Imagen)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Dias_disponibles)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tour_Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tour_Descripcion)
+            </td>
+            <td>   
+             <img width="150px" height="150px" src=" @item.Tour_Imagen" />
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dias_disponibles)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            <td>
+                    @Html.ActionLink("Edit", "Edit", new { Tour_Id = item.Tour_Id}) |
+                    @Html.ActionLink("Details", "Details", new {Tour_Id = item.Tour_Id }) |
+                    @Html.ActionLink("Delete", "Delete", new { Tour_Id= item.Tour_Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

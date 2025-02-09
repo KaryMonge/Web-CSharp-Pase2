@@ -1,0 +1,71 @@
+﻿@model Cliente_UI.Models.Factura
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Factura</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Factura_ID)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Factura_ID)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Lista_tours)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Lista_tours)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Lista_productos)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Lista_productos)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Precio_tour_sin_iva)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Precio_tour_sin_iva)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Precio_Producto_sin_iva)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Precio_Producto_sin_iva)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Precio_tour_con_iva)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Precio_tour_con_iva)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Precio_Producto_con_iva)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Precio_Producto_con_iva)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Total_sin_IVA)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Total_sin_IVA)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Total_con_IVA)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Total_con_IVA)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

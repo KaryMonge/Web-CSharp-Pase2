@@ -1,0 +1,992 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Cliente_API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/ServiceCliente/Cliente": {
+      "get": {
+        "tags": [
+          "Cliente"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Cliente"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Cliente"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Cliente"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Cliente"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Cliente"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Cliente"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Cliente"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/ServiceCliente/Cliente/{cedula}": {
+      "delete": {
+        "tags": [
+          "Cliente"
+        ],
+        "parameters": [
+          {
+            "name": "cedula",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Cliente"
+        ],
+        "parameters": [
+          {
+            "name": "cedula",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Cliente"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Cliente"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Cliente"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Cliente"
+        ],
+        "parameters": [
+          {
+            "name": "cedula",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Cliente"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Cliente"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Cliente"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Servicio/Factura": {
+      "get": {
+        "tags": [
+          "Factura"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Factura"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Factura"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Factura"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Factura"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Factura"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Factura"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Factura"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Servicio/Factura/{Factura_Id}": {
+      "delete": {
+        "tags": [
+          "Factura"
+        ],
+        "parameters": [
+          {
+            "name": "Factura_Id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "Factura"
+        ],
+        "parameters": [
+          {
+            "name": "Factura_Id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Factura"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Factura"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Factura"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Factura"
+        ],
+        "parameters": [
+          {
+            "name": "Factura_Id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Factura"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Factura"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Factura"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Servicio/Producto": {
+      "get": {
+        "tags": [
+          "Producto"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Producto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Producto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Producto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Producto"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Producto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Producto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Producto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Servicio/Producto/{id}": {
+      "get": {
+        "tags": [
+          "Producto"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Producto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Producto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Producto"
+                }
+              }
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Producto"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Producto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Producto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Producto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Producto"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Servicio/Proveedor": {
+      "get": {
+        "tags": [
+          "Proveedor"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Proveedor"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Proveedor"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Proveedor"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Proveedor"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Proveedor"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Proveedor"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Proveedor"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Servicio/Proveedor/{cedula}": {
+      "get": {
+        "tags": [
+          "Proveedor"
+        ],
+        "parameters": [
+          {
+            "name": "cedula",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Proveedor"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Proveedor"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Proveedor"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Servicio/Proveedor/{Ced_juridica}": {
+      "put": {
+        "tags": [
+          "Proveedor"
+        ],
+        "parameters": [
+          {
+            "name": "Ced_juridica",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Proveedor"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Proveedor"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Proveedor"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Proveedor"
+        ],
+        "parameters": [
+          {
+            "name": "Ced_juridica",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Servicio/Tour": {
+      "get": {
+        "tags": [
+          "Tour"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tour"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tour"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/Tour"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Tour"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tour"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tour"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tour"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/Servicio/Tour/{id}": {
+      "get": {
+        "tags": [
+          "Tour"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tour"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tour"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Tour"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Servicio/Tour/{Tour_Id}": {
+      "put": {
+        "tags": [
+          "Tour"
+        ],
+        "parameters": [
+          {
+            "name": "Tour_Id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tour"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tour"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/Tour"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Tour"
+        ],
+        "parameters": [
+          {
+            "name": "Tour_Id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Cliente": {
+        "type": "object",
+        "properties": {
+          "cedula": {
+            "type": "string",
+            "nullable": true
+          },
+          "nombre": {
+            "type": "string",
+            "nullable": true
+          },
+          "anio_Nacimiento": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "telefono": {
+            "type": "string",
+            "nullable": true
+          },
+          "profesion": {
+            "type": "string",
+            "nullable": true
+          },
+          "email": {
+            "type": "string",
+            "nullable": true
+          },
+          "lista_recomendado": {
+            "type": "string",
+            "nullable": true
+          },
+          "password": {
+            "type": "string",
+            "nullable": true
+          },
+          "rol": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Factura": {
+        "type": "object",
+        "properties": {
+          "factura_ID": {
+            "type": "string",
+            "nullable": true
+          },
+          "lista_tours": {
+            "type": "string",
+            "nullable": true
+          },
+          "lista_productos": {
+            "type": "string",
+            "nullable": true
+          },
+          "precio_tour_sin_iva": {
+            "type": "number",
+            "format": "float"
+          },
+          "precio_Producto_sin_iva": {
+            "type": "number",
+            "format": "float"
+          },
+          "precio_tour_con_iva": {
+            "type": "number",
+            "format": "float"
+          },
+          "precio_Producto_con_iva": {
+            "type": "number",
+            "format": "float"
+          },
+          "total_sin_IVA": {
+            "type": "number",
+            "format": "float"
+          },
+          "total_con_IVA": {
+            "type": "number",
+            "format": "float"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Producto": {
+        "type": "object",
+        "properties": {
+          "producto_Id": {
+            "type": "string",
+            "nullable": true
+          },
+          "producto_Descripcion": {
+            "type": "string",
+            "nullable": true
+          },
+          "anio_ingreso": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "precio": {
+            "type": "number",
+            "format": "float"
+          },
+          "utilidad": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Proveedor": {
+        "type": "object",
+        "properties": {
+          "ced_juridica": {
+            "type": "string",
+            "nullable": true
+          },
+          "descripcion_proveedor": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "Tour": {
+        "type": "object",
+        "properties": {
+          "tour_Id": {
+            "type": "string",
+            "nullable": true
+          },
+          "tour_Descripcion": {
+            "type": "string",
+            "nullable": true
+          },
+          "tour_Imagen": {
+            "type": "string",
+            "nullable": true
+          },
+          "dias_disponibles": {
+            "type": "string",
+            "nullable": true
+          },
+          "precio": {
+            "type": "number",
+            "format": "float"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

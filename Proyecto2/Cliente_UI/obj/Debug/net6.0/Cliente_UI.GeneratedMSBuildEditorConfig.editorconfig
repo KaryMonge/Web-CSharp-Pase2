@@ -1,0 +1,144 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Cliente_UI
+build_property.RootNamespace = Cliente_UI
+build_property.ProjectDir = C:\Users\karin\OneDrive\Desktop\Proyecto3\Proyecto2\Cliente_UI\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\karin\OneDrive\Desktop\Proyecto3\Proyecto2\Cliente_UI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Factura/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Factura/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Factura/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Factura/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Factura/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFjdHVyYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Producto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Producto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Producto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Producto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Proveedor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Proveedor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Proveedor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Proveedor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Proveedor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Tour/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Tour/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Tour/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Tour/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Tour/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG91clxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/karin/OneDrive/Desktop/Proyecto3/Proyecto2/Cliente_UI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ddhiytj7ze

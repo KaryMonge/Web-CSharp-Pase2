@@ -1,0 +1,77 @@
+﻿@model Cliente_UI.Models.Factura
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Editar</h1>
+
+<h4>Factura</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div class="container">      
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Factura_ID" class="control-label"></label>
+                <input asp-for="Factura_ID" class="form-control" />
+                <span asp-validation-for="Factura_ID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lista_tours" class="control-label"></label>
+                <select asp-for="@Model.Lista_tours" class="form-select" asp-items="@(new SelectList(ViewBag.Lista_Tours,"Lista_tours","Lista_tours"))"></select>
+                <span asp-validation-for="Lista_tours" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Lista_productos" class="control-label"></label>
+                <select asp-for="@Model.Lista_productos" class="form-select" asp-items="@(new SelectList(ViewBag.Lista_Productos,"Lista_productos","Lista_productos"))"></select>
+                <span asp-validation-for="Lista_productos" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Precio_tour_sin_iva" class="control-label"></label>
+                <input asp-for="Precio_tour_sin_iva" class="form-control" />
+                <span asp-validation-for="Precio_tour_sin_iva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Precio_Producto_sin_iva" class="control-label"></label>
+                <input asp-for="Precio_Producto_sin_iva" class="form-control" />
+                <span asp-validation-for="Precio_Producto_sin_iva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Precio_tour_con_iva" class="control-label"></label>
+                <input asp-for="Precio_tour_con_iva" class="form-control" />
+                <span asp-validation-for="Precio_tour_con_iva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Precio_Producto_con_iva" class="control-label"></label>
+                <input asp-for="Precio_Producto_con_iva" class="form-control" />
+                <span asp-validation-for="Precio_Producto_con_iva" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Total_sin_IVA" class="control-label"></label>
+                <input asp-for="Total_sin_IVA" class="form-control" />
+                <span asp-validation-for="Total_sin_IVA" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Total_con_IVA" class="control-label"></label>
+                <input asp-for="Total_con_IVA" class="form-control" />
+                <span asp-validation-for="Total_con_IVA" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <div style="background-color:navy">
+    <a asp-action="Index">Regresar</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

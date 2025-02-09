@@ -1,0 +1,1221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\cliente_ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:2:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\cliente_ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\data\\datoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\data\\datoscliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\cliente_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\cliente_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\cliente_ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:1:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\cliente_ui.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\data\\service_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\data\\service_cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\data\\datosproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\data\\datosproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\data\\datosfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\data\\datosfactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\data\\datostour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\data\\datostour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\controllers\\facturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\factura\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\factura\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\factura\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\factura\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\factura\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\factura\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\factura\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\factura\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\factura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\factura\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\data\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\data\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\tour\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\tour\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\tour\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\tour\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\tour\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\tour\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\models\\tour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\proveedor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\proveedor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\cliente\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\tour\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\tour\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\proveedor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\proveedor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\data\\datosproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\data\\datosproveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\controllers\\tourcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\cliente_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:1:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\cliente_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\tour\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\tour\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\proveedor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\proveedor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\proveedor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\proveedor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\proveedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\proveedor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\cliente_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\cliente_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\wwwroot\\images\\playa.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\wwwroot\\images\\playa.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\wwwroot\\css\\homesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\wwwroot\\css\\homesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_ui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7EC0CE4-042E-4D92-ABD8-9C2B6C7E9AA8}|Cliente_UI\\Cliente_UI.csproj|solutionrelative:cliente_ui\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\cliente_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}",
+      "RelativeMoniker": "D:2:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\cliente_api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|c:\\users\\karin\\onedrive\\desktop\\prograweb\\proyecto2\\cliente_api\\cliente_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{82BC0158-3C97-477E-882B-A0D5C1918B98}|Cliente_API\\Cliente_API.csproj|solutionrelative:cliente_api\\cliente_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 207,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente_UI",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Cliente_UI.csproj",
+              "RelativeDocumentMoniker": "Cliente_UI\\Cliente_UI.csproj",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Cliente_UI.csproj",
+              "RelativeToolTip": "Cliente_UI\\Cliente_UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T17:26:39.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Factura\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Factura\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Factura\\Delete.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Factura\\Delete.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Factura\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Factura\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Factura\\Edit.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Factura\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Factura\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Factura\\Create.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Factura\\Create.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Factura\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwEAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Factura\\Details.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Factura\\Details.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Factura\\Details.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Factura\\Details.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Factura\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Factura\\Index.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Factura\\Index.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Factura\\Index.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAIBJwFMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Tour\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Tour\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Tour\\Edit.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Tour\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Proveedor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Proveedor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Proveedor\\Edit.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Proveedor\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Producto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Producto\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwB0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Tour\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Tour\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Tour\\Delete.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Tour\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Tour\\Details.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Tour\\Details.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Tour\\Details.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Tour\\Details.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Proveedor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Proveedor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Proveedor\\Delete.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Proveedor\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Cliente_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\appsettings.json",
+              "RelativeToolTip": "Cliente_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T17:26:39.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "playa.JPG",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\wwwroot\\Images\\playa.JPG",
+              "RelativeDocumentMoniker": "Cliente_UI\\wwwroot\\Images\\playa.JPG",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\wwwroot\\Images\\playa.JPG",
+              "RelativeToolTip": "Cliente_UI\\wwwroot\\Images\\playa.JPG",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-02-09T17:26:39.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Cliente_UI\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Cliente_UI\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-09T17:26:39.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "HomeSheet.css",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\wwwroot\\css\\HomeSheet.css",
+              "RelativeDocumentMoniker": "Cliente_UI\\wwwroot\\css\\HomeSheet.css",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\wwwroot\\css\\HomeSheet.css",
+              "RelativeToolTip": "Cliente_UI\\wwwroot\\css\\HomeSheet.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-09T17:26:39.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Tour\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Tour\\Create.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Tour\\Create.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Tour\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwCoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Tour\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Tour\\Index.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Tour\\Index.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Tour\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwCoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Proveedor\\Details.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Proveedor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Proveedor\\Details.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Proveedor\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Proveedor\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Proveedor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Proveedor\\Create.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Proveedor\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Proveedor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Proveedor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Proveedor\\Index.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Proveedor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Producto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Producto\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Producto\\Delete.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Producto\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Producto\\Details.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Producto\\Details.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Producto\\Details.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Producto\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAIBJwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwDMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DatosFactura.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Data\\DatosFactura.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Data\\DatosFactura.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Data\\DatosFactura.cs",
+              "RelativeToolTip": "Cliente_API\\Data\\DatosFactura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DatosTour.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Data\\DatosTour.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Data\\DatosTour.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Data\\DatosTour.cs",
+              "RelativeToolTip": "Cliente_API\\Data\\DatosTour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DatosProveedor.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Data\\DatosProveedor.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Data\\DatosProveedor.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Data\\DatosProveedor.cs",
+              "RelativeToolTip": "Cliente_API\\Data\\DatosProveedor.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatosProducto.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Data\\DatosProducto.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Data\\DatosProducto.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Data\\DatosProducto.cs",
+              "RelativeToolTip": "Cliente_API\\Data\\DatosProducto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Models\\Factura.cs",
+              "RelativeToolTip": "Cliente_API\\Models\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Models\\Tour.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Models\\Tour.cs",
+              "RelativeToolTip": "Cliente_API\\Models\\Tour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Models\\Proveedor.cs",
+              "RelativeToolTip": "Cliente_API\\Models\\Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Models\\Producto.cs",
+              "RelativeToolTip": "Cliente_API\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Cliente_API\\Controllers\\FacturaController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA5wC0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TourController.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Controllers\\TourController.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Controllers\\TourController.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Controllers\\TourController.cs",
+              "RelativeToolTip": "Cliente_API\\Controllers\\TourController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "Cliente_API\\Controllers\\ProveedorController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwC8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Cliente_API\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Cliente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Cliente\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Cliente\\Delete.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Cliente\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Cliente\\Details.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Cliente\\Details.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Cliente\\Details.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Cliente\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacturaController.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\FacturaController.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Controllers\\FacturaController.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\FacturaController.cs",
+              "RelativeToolTip": "Cliente_UI\\Controllers\\FacturaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "TourController.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\TourController.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Controllers\\TourController.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\TourController.cs",
+              "RelativeToolTip": "Cliente_UI\\Controllers\\TourController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAIBJwIcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProveedorController.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\ProveedorController.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Controllers\\ProveedorController.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\ProveedorController.cs",
+              "RelativeToolTip": "Cliente_UI\\Controllers\\ProveedorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Cliente_UI\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\Factura.cs",
+              "RelativeToolTip": "Cliente_UI\\Models\\Factura.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Tour.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\Tour.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Models\\Tour.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\Tour.cs",
+              "RelativeToolTip": "Cliente_UI\\Models\\Tour.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\Proveedor.cs",
+              "RelativeToolTip": "Cliente_UI\\Models\\Proveedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\Producto.cs",
+              "RelativeToolTip": "Cliente_UI\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\appsettings.json",
+              "RelativeDocumentMoniker": "Cliente_UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\appsettings.json",
+              "RelativeToolTip": "Cliente_UI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T17:26:39.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Cliente_UI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Cliente_UI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Cliente_UI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T17:26:39.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente_API.csproj",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Cliente_API.csproj",
+              "RelativeDocumentMoniker": "Cliente_API\\Cliente_API.csproj",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Cliente_API.csproj",
+              "RelativeToolTip": "Cliente_API\\Cliente_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T17:26:39.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Cliente_API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\appsettings.Development.json",
+              "RelativeToolTip": "Cliente_API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T17:26:39.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Cliente_API",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Cliente_API.csproj",
+              "RelativeDocumentMoniker": "Cliente_API\\Cliente_API.csproj",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Cliente_API.csproj",
+              "RelativeToolTip": "Cliente_API\\Cliente_API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T17:26:39.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Program.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Program.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Program.cs",
+              "RelativeToolTip": "Cliente_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:39.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Cliente_API",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Cliente_API.csproj",
+              "RelativeDocumentMoniker": "Cliente_API\\Cliente_API.csproj",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Cliente_API.csproj",
+              "RelativeToolTip": "Cliente_API\\Cliente_API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T17:26:39.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:39.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBJwDIAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:40.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "Cliente_UI\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "Cliente_UI\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAIBJwDEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T17:26:40.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Cliente_UI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:40.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente_UI",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Cliente_UI.csproj",
+              "RelativeDocumentMoniker": "Cliente_UI\\Cliente_UI.csproj",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Cliente_UI.csproj",
+              "RelativeToolTip": "Cliente_UI\\Cliente_UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T17:26:40.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Program.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Program.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Program.cs",
+              "RelativeToolTip": "Cliente_UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:40.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatosCliente.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Data\\DatosCliente.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Data\\DatosCliente.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Data\\DatosCliente.cs",
+              "RelativeToolTip": "Cliente_API\\Data\\DatosCliente.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:40.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Cliente_API\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:40.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente_API\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Models\\Cliente.cs",
+              "RelativeToolTip": "Cliente_API\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:40.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Cliente_API.csproj",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Cliente_API.csproj",
+              "RelativeDocumentMoniker": "Cliente_API\\Cliente_API.csproj",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Cliente_API.csproj",
+              "RelativeToolTip": "Cliente_API\\Cliente_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T17:26:40.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Cliente_API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Cliente_API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-09T17:26:40.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Service_Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Data\\Service_Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Data\\Service_Cliente.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Data\\Service_Cliente.cs",
+              "RelativeToolTip": "Cliente_UI\\Data\\Service_Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:40.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Data\\IService.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Data\\IService.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Data\\IService.cs",
+              "RelativeToolTip": "Cliente_UI\\Data\\IService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:40.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Cliente_UI\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:40.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Cliente_UI\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Models\\Cliente.cs",
+              "RelativeToolTip": "Cliente_UI\\Models\\Cliente.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwC0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:26:40.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Cliente_UI.csproj",
+              "DocumentMoniker": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Cliente_UI.csproj",
+              "RelativeDocumentMoniker": "Cliente_UI\\Cliente_UI.csproj",
+              "ToolTip": "C:\\Users\\karin\\OneDrive\\Desktop\\prograweb\\Proyecto2\\Cliente_UI\\Cliente_UI.csproj",
+              "RelativeToolTip": "Cliente_UI\\Cliente_UI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-09T17:26:40.032Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

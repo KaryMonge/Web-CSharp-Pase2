@@ -1,0 +1,97 @@
+﻿@model IEnumerable<Cliente_UI.Models.Factura>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<div style="background-color:lightskyblue">
+
+<h1>Inicio</h1>
+
+
+
+<p>
+    <div style="background-color:navy">
+    <a asp-action="Create">Generar una Factura</a>
+    </div>
+</p>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Factura_ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lista_tours)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lista_productos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio_tour_sin_iva)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio_Producto_sin_iva)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio_tour_con_iva)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio_Producto_con_iva)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total_sin_IVA)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total_con_IVA)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Factura_ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lista_tours)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lista_productos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio_tour_sin_iva)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio_Producto_sin_iva)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio_tour_con_iva)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio_Producto_con_iva)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total_sin_IVA)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Total_con_IVA)
+            </td>
+            <td>
+                        <div style="background-color:navy">
+
+                @Html.ActionLink("Edit", "Edit", new { Factura_ID = item.Factura_ID}) |
+                    @Html.ActionLink("Details", "Details", new { Factura_ID = item.Factura_ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { Factura_ID = item.Factura_ID })
+                    </div>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</div>

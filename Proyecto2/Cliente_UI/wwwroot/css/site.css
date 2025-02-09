@@ -1,0 +1,70 @@
+html {
+    font-size: 14px;
+}
+
+body {
+    font-family: 'Lucida Sans';
+    font-style: oblique;
+    flex-wrap: wrap;
+    min-width: 150px;
+    background-image: url('../images/dias-mas-largos-tierra.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+nav {
+    width: 100%;
+    font-size: 18px;
+}
+
+
+header {
+    background-color: cadetblue;
+    width: 100%
+}
+
+body {
+    margin-bottom: 70px;
+    background-image: url('../images/vod6wsx4r5dmjhatkhhkrp654q.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container {
+    background-color: cornflowerblue;
+    opacity: 70%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+         
+
+
+footer {
+    background-color: black
+}
+label{
+
+    width:400px;
+    color:black;
+
+}
+p{
+
+    color: black;
+    font:100;
+}

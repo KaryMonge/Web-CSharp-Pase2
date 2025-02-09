@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Cliente_UI.Models.Proveedor>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Inicio</h1>
+
+<p>
+    <div style="background-color:navy">
+    <a asp-action="Create">Ingresar Proveedor</a>
+    </div>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Ced_juridica)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion_proveedor)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ced_juridica)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion_proveedor)
+            </td>
+            <td>
+                        <div style="background-color:midnightblue">
+                    @Html.ActionLink("Edit", "Edit", new { Ced_juridica = item.Ced_juridica}) |
+                    @Html.ActionLink("Details", "Details", new {Ced_juridica = item.Ced_juridica }) |
+                    @Html.ActionLink("Delete", "Delete", new { Ced_juridica = item.Ced_juridica})
+                  </div>
+        </tr>
+}
+    </tbody>
+</table>

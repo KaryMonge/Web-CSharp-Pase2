@@ -1,0 +1,74 @@
+﻿ @model Cliente_UI.Models.Cliente
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Eliminar</h1>
+
+<div>
+    <h4>Cliente</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Cedula)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Cedula)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Anio_Nacimiento)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Anio_Nacimiento)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Telefono)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Profesion)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Profesion)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.email)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.email)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Lista_recomendado)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Lista_recomendado)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Rol)
+        </dt>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="submit" value="Delete" class="btn btn-danger" /> 
+
+        <div style="background-color:black">
+        <a asp-action="Index">Regresar</a>
+        </div>
+    </form>
+
+</div>
